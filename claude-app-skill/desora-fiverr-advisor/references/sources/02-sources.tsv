@@ -1,0 +1,44 @@
+id	url	title	tier	mode	date_if_known
+S1	https://help.fiverr.com/hc/en-us/articles/23429542870161-Fiverr-s-search-and-recommendation-system	Fiverr's search and recommendation system (Help Center)	T1	snippet	2024-2025 (current version)
+S2	https://help.fiverr.com/hc/en-us/articles/37332082211217-Fiverr-s-search-and-recommendation-system	Fiverr's search and recommendation system (Help Center, newer article id)	T1	snippet	2025 (new help-center structure)
+S3	https://help.fiverr.com/hc/en-us/articles/4599361153809-Can-t-find-your-Gig	Can't find your Gig? (Help Center)	T1	snippet	
+S4	https://help.fiverr.com/hc/en-us/articles/360049955673-Searching-freelancers-and-services-on-Fiverr-A-Guide	Searching freelancers and services on Fiverr: A Guide (Help Center)	T1	snippet	
+S5	https://help.fiverr.com/hc/en-us/articles/36625767376017-Managing-orders-with-Request-to-order	Managing orders with Request to order (Help Center)	T1	snippet	2025
+S6	https://help.fiverr.com/hc/en-us/articles/360017729338-Promoting-your-Gigs-with-Fiverr-Ads	Promoting your Gigs with Fiverr Ads (Help Center)	T1	snippet	
+S7	https://community.fiverr.com/public/blogs/understanding-the-fiverr-algorithm-what-impact-your-ranking-2025-06-02	Understanding the Fiverr algorithm: What impacts your ranking (Fiverr Community blog / Education content)	T1	snippet	2025-06-02
+S8	https://community.fiverr.com/public/blogs/what-to-do-if-your-impressions-clicks-or-conversions-are-down-2025-07-18	What to do if your impressions, clicks, or conversions are down (Fiverr Community blog / Education content)	T1	snippet	2025-07-18
+S9	https://sellers.fiverr.com/en/article/what-is-rising-talent	What is Rising Talent (Fiverr seller resources)	T1	snippet	
+S10	https://help.fiverr.com/hc/en-us/articles/360010452397-Glossary-of-Fiverr-terms	Glossary of Fiverr terms (Help Center) [title/snippet only]	T1	snippet	
+S11	https://help.fiverr.com/hc/en-us/articles/29454478348433-Creating-and-optimizing-your-Fiverr-Pro-Gig	Creating and optimizing your Fiverr Pro Gig (Help Center) [title only]	T1	snippet	
+S12	https://help.fiverr.com/hc/en-us/articles/6523401252881-Advanced-Analytics-for-Seller-plus	Advanced Analytics for Seller plus (Help Center) [title only]	T1	snippet	
+S13	https://help.fiverr.com/hc/en-us/articles/21965360854673-Success-score	Success score (Help Center) [title only]	T1	snippet	2023+
+S14	https://help.fiverr.com/hc/en-us/articles/360010708757-Best-practices-for-new-Fiverr-sellers	Best practices for Fiverr freelancers (Help Center) [title only]	T1	snippet	
+S15	https://eduearnhub.com/fiverr-character-limits/	Fiverr Character Limits 2026: Every Field With Exact Numbers	T4	snippet	2026
+S16	https://eduearnhub.com/how-to-write-a-fiverr-gig-description/	How to Write a Fiverr Gig Description (2026 Formula)	T4	snippet	2026
+S17	https://gigrankpro.com/fiverr-gig-tags/	Fiverr Gig Tags: 5 Easy Steps to Choose the Best Keywords	T4	snippet	
+S18	https://swiftcopy.io/blog/how-to-write-fiverr-gig-description	Fiverr Gig Description: 3 Templates That Rank & Sell (2026)	T4	snippet	2026
+S19	https://zenlance.net/fiverr-algorithm/	How the Fiverr Algorithm Works 2026 (Rank Your Gig Faster)	T4	snippet	2026
+S20	https://mitaboost.medium.com/how-to-rank-your-fiverr-gig-at-the-top-in-2025-27f03d58a69c	How to Rank Your Fiverr Gig at the Top in 2025 (MitaBoost, Medium)	T4	snippet	2025
+S21	https://www.solvenesthub.com/how-to-rank-your-fiverr-gig-in-2025/	Rank Your Fiverr Gig in 2025 - Top SEO Tips	T4	snippet	2025
+S22	https://thetopicshub.com/2026/04/04/fiverr-gig-not-ranking/	Why Your Fiverr Gig Isn't Ranking - 7 Fixes	T4	snippet	2026-04-04
+S23	https://precisionlyai.com/blog/fiverr-gig-seo-7-ways-to-rank-higher-in-fiverr-search	Fiverr Gig SEO: 7 Ways to Rank Higher in Fiverr Search	T4	snippet	
+S24	https://medium.com/illumination/debunking-myths-does-editing-your-gig-harm-your-ranking-on-freelancing-platforms-451ed149f715	Debunking Myths: Does Editing Your Gig Harm Your Ranking (ILLUMINATION, Medium)	T3	snippet	
+S25	https://www.quora.com/Does-editing-my-gigs-on-Fiverr-lower-their-rank	Does editing my gigs on Fiverr lower their rank? (Quora)	T3	snippet	
+S26	https://community.fiverr.com/public/forum/boards/tips-and-education-xhe/posts/does-editing-gig-title-or-tags-affect-ranking-or-impressions-m3oc7rebyr	Does editing gig title or tags affect ranking or impressions? (Fiverr forum) [title only]	T3	snippet	
+S27	https://forum.fiverr.com/t/lost-my-gig-ranking-after-editing/478599	Lost my gig ranking after editing (Fiverr forum) [title only]	T3	snippet	
+S28	https://forum.fiverr.com/t/fiverrs-choice-badge-appear-and-disappear/524681	Fiverr's Choice badge appear and disappear (Fiverr forum)	T3	snippet	
+S29	https://community.fiverr.com/public/forum/boards/ask-the-community-xsm/posts/346655-how-long-does-%E2%80%98fiverr%E2%80%99s-choice%E2%80%99-badge-stay	How long does Fiverr's Choice badge stay (Fiverr forum)	T3	snippet	
+S30	https://devieka.medium.com/fiverrs-choice-badge-why-it-matters-and-how-you-can-get-it-c006bdb930fc	Fiverr's Choice Badge: Why It Matters and How You Can Get It (Medium)	T3	snippet	
+S31	https://www.joinkosmo.com/blog/how-to-get-fiverrs-choice/	How to Get Fiverr's Choice (Kosmo)	T4	snippet	
+S32	https://fiverrtutorials.com/fiverr-ranking-guide/fiverr-impressions-clicks-explained	Fiverr Impressions vs Clicks: What They Mean (2026)	T4	snippet	2026
+S33	https://fiverrtutorials.com/fiverr-ranking-guide/fiverr-gig-funnel	Fiverr Impressions vs Clicks vs Orders: Find Where Your Gig Is Losing Buyers	T4	snippet	2026
+S34	https://community.fiverr.com/public/forum/boards/ask-the-community-xsm/posts/321942-impressions-keeps-decreasing-but-clicks-and-conversion-are-increasing	Impressions keep decreasing but clicks and conversion are increasing (Fiverr forum) [title only]	T3	snippet	
+S35	https://community.fiverr.com/public/forum/boards/ask-the-community-xsm/posts/impression-and-clicks-on-my-gig-are-down-day-by-day-even-i-remain-online-24-or-12-plz-suggest-me-what-should-i-do-for-best-performance-uo93cpnflj	Impressions and clicks down day by day even though I remain online 24/12 (Fiverr forum) [title only]	T3	snippet	
+S36	https://community.fiverr.com/public/forum/boards/support-and-troubleshooting-by1/posts/all-4-gigs-suddenly-dropped-to-0-impressions-and-clicks-is-this-normal-3njhbnyau3	All 4 Gigs suddenly dropped to 0 impressions and clicks (Fiverr forum) [title only]	T3	snippet	
+S37	https://forum.fiverr.com/t/drop-in-impressions-and-clicks/505307	Drop in Impressions and Clicks (Fiverr forum) [snippet: 10-12 day decline anecdote]	T3	snippet	
+S38	https://community.fiverr.com/public/forum/boards/start-here-c9d/posts/297345-my-gigs-are-not-searchable-with-the-main-keyword	My gigs are not searchable with the main keyword (Fiverr forum) [title only]	T3	snippet	
+S39	https://community.fiverr.com/public/forum/boards/freelancer-lounge-sry/posts/330910-unfair-impact-of-fiverrs-select-business-badges-on-sellers	Unfair impact of Fiverr Select business badges on sellers (Fiverr forum) [title only]	T3	snippet	
+S40	https://help.fiverr.com/hc/en-us/articles/29452732859153-Client-recommendations	Client recommendations (Help Center) [title only]	T1	snippet	
+S41	https://help.fiverr.com/hc/en-us/articles/360011920618	Fiverr Select: Client loyalty program (Help Center) [title only]	T1	snippet	
+S42	https://www.spyopinion.com/blog/what-are-impressions-on-fiverr/	What Are Impressions On Fiverr? 6 Ways To Optimize Gigs [title only]	T4	snippet	
+S43	https://www.nihardaily.com/35-fiverr-algorithm-changes-2024-2025-why-sellers-are-getting-fewer-orders-and-how-to-fix-it	Fiverr Algorithm Update 2024-2025: Seller Orders Drop [title only]	T4	snippet	2025

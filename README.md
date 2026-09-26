@@ -14,3 +14,24 @@ Open this repository in Claude Code (web or local) and ask anything about Fiverr
 - `.claude/fiverr-knowledge/desora-state.md`: DESORA's live gigs and metrics, which the agent keeps updated.
 
 See `.claude/fiverr-knowledge/README.md` for the evidence audit and research limits.
+
+## Install
+
+### 1. Claude app (web, desktop, mobile): as a Skill
+1. Download `claude-app-skill/desora-fiverr-advisor.zip`.
+2. In Claude: **Settings → Capabilities → Skills → Upload skill**, choose the zip, and switch it on.
+3. In any chat, ask a Fiverr question ("audit my gig…"). The skill loads automatically.
+
+In the app the files are read-only. When you share new gig data, the advisor gives you the updated `desora-state.md` text to paste back here.
+
+### 2. Claude Code on your computer: as a global agent (all projects)
+```bash
+git clone https://github.com/desoragency-ui/fiverr-knowledge.git
+cd fiverr-knowledge
+bash install.sh                                            # Mac / Linux
+powershell -ExecutionPolicy Bypass -File install.ps1       # Windows
+```
+The installer copies the agent to `~/.claude/agents/fiverr-advisor.md` and the knowledge base to `~/.claude/fiverr-knowledge/`. Re-running it keeps your `desora-state.md`. Restart Claude Code and type `/agents` to confirm `fiverr-advisor` is listed.
+
+### 3. Claude Code on the web
+Open a session on this repo. The agent is picked up automatically from `.claude/agents/`.
