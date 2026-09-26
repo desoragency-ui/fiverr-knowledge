@@ -1,0 +1,59 @@
+id	url	title	tier(T1-T4)	mode(fetched|snippet)	date_if_known
+S1	https://help.fiverr.com/hc/en-us/articles/15863342952977-Creating-Gig-images-and-tagging-your-Gig-gallery	Creating Gig images and tagging your Gig gallery (Fiverr Help Center)	T1	snippet	live article, retrieved via search 2026-09-26
+S2	https://help.fiverr.com/hc/en-us/articles/360010451397-Creating-a-Gig	Creating a Gig (Fiverr Help Center)	T1	snippet	retrieved 2026-09-26
+S3	https://help.fiverr.com/hc/en-us/articles/360011421218-Requirements-and-guidelines-for-your-Gig	Requirements and guidelines for your Gig (Fiverr Help Center)	T1	snippet	retrieved 2026-09-26
+S4	https://help.fiverr.com/hc/en-us/articles/360010451657-Adding-a-video-to-your-Gig	Adding and managing your Gig video (Fiverr Help Center)	T1	snippet	retrieved 2026-09-26
+S5	https://help.fiverr.com/hc/en-us/articles/13703724418961-Creating-your-Fiverr-intro-video	Creating your Fiverr intro video (Fiverr Help Center) - title only	T1	snippet	retrieved 2026-09-26
+S6	https://help.fiverr.com/hc/en-us/articles/29454478348433-Creating-a-Fiverr-Pro-Gig	Creating and optimizing your Fiverr Pro Gig (Fiverr Help Center) - title only	T1	snippet	retrieved 2026-09-26
+S7	https://help.fiverr.com/hc/en-us/articles/4413134063633-Using-My-Portfolio	Using your Fiverr Portfolio (Fiverr Help Center) - title only	T1	snippet	retrieved 2026-09-26
+S8	https://help.fiverr.com/hc/en-us/articles/360010452317-Gigs-best-practices	Gigs best practices (Fiverr Help Center) - title only	T1	snippet	retrieved 2026-09-26
+S9	https://www.fiverr.com/content/rt/gig-images	Gig Image Templates (Fiverr) - title only	T1	snippet	retrieved 2026-09-26
+S10	https://blog.fiverr.com/post/introducing-the-new-fiverr-gig-image-guidelines	Introducing the new Fiverr Gig image guidelines (Fiverr blog) - title only	T1	snippet	unknown
+S11	https://droitthemes.com/fiverr-gig-image-size/	What is the Fiverr Gig Image Size For 2025 (DroitThemes)	T4	snippet	2025
+S12	https://touhfa.art/blog/thumbnails/fiverr-gig-thumbnail-size-design-guide/	Fiverr Gig Gallery Image Size 2026: 1280x769	T4	snippet	2026
+S13	https://fiverr101.com/fiverr-gig-image-size/	Fiverr Gig Image Size In 2026 (Fiverr101)	T4	snippet	2026
+S14	https://skybootstrap.com/fiverr-gig-image-size/	Fiverr Gig Image Size in 2026 (SkyBootstrap)	T4	snippet	2026
+S15	https://onebrain.app/blog/fiverr-gig-image-size-guide	Fiverr Gig Image Size Guide 2026 (OneBrain)	T4	snippet	2026
+S16	https://cpalearner.com/blog/fiverr-gig-image-size/	Fiverr gig image size (CPA Learner)	T4	snippet	unknown
+S17	https://smartremotegigs.com/perfect-fiverr-gig-image/	Perfect Fiverr Gig Image 2026: Canva AI Guide	T4	snippet	2026
+S18	https://www.facebook.com/fb-answers/fiverr-help-center-gig-gallery-image-size-requirements/	Fiverr Help Center Gig Gallery Image Size Requirements (FB answers)	T4	snippet	unknown
+S19	https://www.websitebuilderinsider.com/what-is-the-fiverr-gig-video-size/	What is the Fiverr gig video size? (fetch blocked)	T4	snippet	unknown
+S20	https://fiverrreport.com/gig-promotion/share-your-best-work-in-gallery-and-live-portfolio/	Share Your Best Work in Your Gallery or Portfolio (fetch blocked)	T3	snippet	unknown
+S21	https://fiverrtutorials.com/fiverr-gig-video	Fiverr Gig Video: How to Make One That Converts (2026 Guide) (fetch blocked)	T3	snippet	2026
+S22	https://fiverrpromotion.net/blog/how-many-minutes-can-my-fiverr-video-be/	How Many Minutes Can My Fiverr Video Be?	T4	snippet	unknown
+S23	https://community.fiverr.com/public/forum/boards/tips-and-education-xhe/posts/advice-needed-about-fiverr-gig-video-specs-yjexrmdlbt	Advice needed about Fiverr Gig Video specs (Fiverr Community; fetch blocked)	T3	snippet	unknown
+S24	https://community.fiverr.com/forums/topic/217493-your-gig-requires-modification-general-tos-violation-please-help/	Your Gig requires modification - General TOS violation (Fiverr Community)	T3	snippet	unknown
+S25	https://community.fiverr.com/forums/topic/171136-gig-requires-modification-do-i-need-to-remove-individual-buyer-reviews/	Gig Requires Modification - remove individual buyer reviews? (Fiverr Community)	T3	snippet	unknown
+S26	https://community.fiverr.com/forums/topic/260240-your-gig-requires-modification-shipping/	Your Gig requires modification... Shipping (Fiverr Community)	T3	snippet	unknown
+S27	https://community.fiverr.com/forums/topic/188088-your-gig-requires-modification/	Your Gig requires Modification (Fiverr Community)	T3	snippet	unknown
+S28	https://sahiwalupdates.com/fiverr-gig-requires-modification/	What to do if Fiverr Gig requires Modification	T4	snippet	unknown
+S29	https://community.fiverr.com/public/forum/boards/start-here-c9d/posts/315798-you-need-to-modify-your-gig-and-your-title-may-need-a-little-help-to-comply-with-our-terms	You need to modify your gig and your title may need a little help (Fiverr Community) - title only	T3	snippet	unknown
+S30	https://community.fiverr.com/public/forum/boards/start-here-c9d/posts/303361-gig-denial	Gig denial (Fiverr Community) - title only	T3	snippet	unknown
+S40	https://github.com/waseemnasir2k26/fiverr-gig-optimizer	fiverr-gig-optimizer README (Waseem Nasir / Skynet Labs)	T4	fetched	v2026.09
+S41	https://raw.githubusercontent.com/waseemnasir2k26/fiverr-gig-optimizer/master/.claude/commands/fiverr-optimize.md	fiverr-optimize Claude Code command (same author)	T4	fetched	2026-09
+S42	https://raw.githubusercontent.com/waseemnasir2k26/fiverr-gig-optimizer/master/docs/guide.html	Fiverr Gig Optimizer guide (same author)	T4	fetched	2026-09
+S43	https://github.com/Ahad690/fiverr-gig-optimizer	Research-backed Fiverr gig optimizer README (Ahad690)	T3	fetched	2026-07
+S44	https://raw.githubusercontent.com/Ahad690/fiverr-gig-optimizer/main/skills/fiverr-gig-optimizer/SKILL.md	fiverr-gig-optimizer SKILL.md v1.1	T3	fetched	2026-07
+S45	https://raw.githubusercontent.com/Ahad690/fiverr-gig-optimizer/main/skills/fiverr-gig-optimizer/references/fiverr-seo-playbook.md	Fiverr SEO playbook (reference file)	T3	fetched	2026-07
+S46	https://github.com/halidh5452-lang/gigranker	GigForge AI / gigranker README	T4	fetched	2026
+S47	https://github.com/NadirAliOfficial/fiverr-ai-autofill	Fiverr AI Autofill Chrome extension README	T3	fetched	2026-09-21
+S48	https://raw.githubusercontent.com/NadirAliOfficial/fiverr-ai-autofill/main/content.js	Fiverr AI Autofill content.js (live gig-editor DOM selectors: maxlength=80 title, "5 tags maximum", placeholders)	T3	fetched	2026-09
+S49	https://raw.githubusercontent.com/NadirAliOfficial/fiverr-ai-autofill/main/background.js	Fiverr AI Autofill background.js (low relevance)	T4	fetched	2026-09
+S50	https://github.com/waseemnasir2k26/fiverr-gig-assets	Fiverr gig assets generator README (images, 38s explainer videos, PDFs)	T4	fetched	v2026.09
+S51	https://github.com/KyuRish/fiverr-mcp-server	fiverr-mcp-server README	T3	fetched	2026
+S52	https://github.com/BlackFalconData-org/fiverr-scraper	Fiverr scraper (Apify actor) README - 47-field gig schema	T4	fetched	2026-08
+S53	https://github.com/rumman02/Gig-visibility-checker	Gig Image Swap - Fiverr visibility preview extension README	T3	fetched	2026
+S54	https://github.com/sandikodev/portfolio	sandikodev Fiverr gig prep materials README	T4	fetched	2026
+S55	https://github.com/SidSharma010/freelance-gig-skills	freelance-gig-skills (Claude skills) README	T4	fetched	2026-09
+S56	https://raw.githubusercontent.com/SidSharma010/freelance-gig-skills/main/references/platform-formats.md	platform-formats.md reference	T4	fetched	2026-09
+S57	https://github.com/shamrozkhan0/gigbro	GigBro gig analyzer README	T4	fetched	2026-09
+S58	https://github.com/zlatkomarjanovic/fiverr-gigs	fiverr-gigs public index README (schema: tags max 5, faq max 5)	T4	fetched	2026-09
+S59	https://github.com/tanvirkhan00/Fiver-Restricted-Word-Check	Fiverr restricted-word checker (repo description only)	T4	fetched	2026-09
+S60	https://github.com/topics/fiverr	GitHub topic: fiverr (directory of tools)	T4	fetched	2026-09
+S61	https://github.com/topics/fiverr?page=2	GitHub topic: fiverr page 2	T4	fetched	2026-09
+S62	https://github.com/topics/fiverr-gig	GitHub topic: fiverr-gig	T4	fetched	2026-09
+S63	https://github.com/search?q=fiverr+gig+image&type=repositories	GitHub repo search: fiverr gig image	T4	fetched	2026-09-26
+S64	https://github.com/search?q=fiverr+gig+description&type=repositories	GitHub repo search: fiverr gig description	T4	fetched	2026-09-26
+S65	https://github.com/search?q=fiverr+seller&type=repositories&s=stars&o=desc	GitHub repo search: fiverr seller	T4	fetched	2026-09-26
+S66	https://github.com/Ahad690/fiverr-gig-optimizer/tree/main/skills/fiverr-gig-optimizer	Ahad690 skill directory listing	T4	fetched	2026-07
+S67	https://github.com/Ahad690/fiverr-gig-optimizer/tree/main/skills/fiverr-gig-optimizer/references	Ahad690 references directory listing	T4	fetched	2026-07

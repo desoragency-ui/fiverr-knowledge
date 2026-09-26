@@ -1,0 +1,145 @@
+id	url	title	tier	mode	date_if_known
+S001	https://github.com/upscayl/upscayl	Upscayl GitHub README (AGPL-3.0, Vulkan GPU req)	T1	fetched	checked 2026-09-26
+S002	https://raw.githubusercontent.com/lucide-icons/lucide/main/README.md	Lucide README (ISC license, 1600+ icons)	T1	fetched	checked 2026-09-26
+S003	https://registry.npmjs.org/lucide/latest	Lucide npm registry metadata (v1.48.0, ISC)	T1	fetched	checked 2026-09-26
+S004	https://pypi.org/project/rembg/	rembg PyPI page (MIT; model licenses differ; RMBG-2.0 paid for commercial)	T1	fetched	checked 2026-09-26
+S005	https://gitlab.com/inkscape/inkscape	Inkscape GitLab repository	T1	fetched	checked 2026-09-26
+S006	https://sourceforge.net/projects/gimp-win/	SourceForge open-source graphic design directory (served for gimp-win)	T2	fetched	2026
+S007	https://sourceforge.net/software/product/Canva/	SourceForge Canva reviews 2026 (4.7/5, 90 reviews; free plan limits noted by users)	T2	fetched	2026
+S008	https://help.fiverr.com/hc/en-us/articles/34998793899665-Using-AI-on-Fiverr-Guidelines-for-freelancers-and-clients	Using AI on Fiverr: Guidelines for freelancers and clients (search snippet; WebFetch egress-blocked)	T1	snippet	
+S009	https://help.fiverr.com/hc/en-us/articles/37333179414289-Community-Standards-AI-generated-content	Community Standards: AI-generated content (snippet)	T1	snippet	
+S010	https://help.fiverr.com/hc/en-us/articles/17240598194321-AI-services-guidelines	AI services guidelines (snippet)	T1	snippet	
+S011	https://www.coursera.org/learn/fiverr-freelancing	Coursera: Fiverr Freelancing: Strategies To Become a Top-1% Freelancer (snippet)	T2	snippet	
+S012	https://www.classcentral.com/subject/fiverr	Class Central: 70+ Fiverr online courses 2026 (snippet)	T2	snippet	2026
+S013	https://workspace.fiverr.com/contracts/	Fiverr Workspace - Online Contracts (snippet: free plan 1 client, contracts vetted by Freelancers Union)	T1	snippet	
+S014	https://www.softwareadvice.com/product/334221-Fiverr/	Software Advice: Fiverr Workspace reviews & pricing 2026 (snippet)	T2	snippet	2026
+S015	https://research.com/software/reviews/fiverr-workspace	Research.com Fiverr Workspace Review 2026 (snippet)	T2	snippet	2026
+S016	https://help.fiverr.com/hc/en-us/articles/32545737221649-Personal-Assistant-for-freelancers	Personal Assistant for freelancers (snippet: closes to new subscribers 2026-09-01, ends 2026-10-01)	T1	snippet	2026
+S017	https://investors.fiverr.com/news-releases/news-release-details/fiverr-unveils-fiverr-go-visionary-ai-platform-puts-creators	Fiverr IR press release: Fiverr Go launch (snippet)	T1	snippet	2025-02
+S018	https://curatorbits.com/reviews/fiverr-go/	CuratorBits Fiverr Go Review 2026 (snippet: $29/mo PA, $25/mo creation models)	T4	snippet	2026
+S019	https://help.fiverr.com/hc/en-us/articles/360017140717-Seller-Plus-Standard-and-Premium-Advanced-tools-for-business-growth	Seller Plus Standard and Premium (snippet: $25 / $49 monthly; $128 / $250 half-yearly)	T1	snippet	
+S020	https://help.fiverr.com/hc/en-us/articles/27291415082257-Seller-Plus-Kickstart-Start-your-freelance-journey-strong	Seller Plus Kickstart (snippet: entry tier for new freelancers)	T1	snippet	
+S021	https://www.hireinsouth.com/post/fiverr-pricing	South: Fiverr Pricing 2026 (snippet: Kickstart $15, Standard $25, Premium $49)	T4	snippet	2026
+S022	https://help.fiverr.com/hc/en-us/articles/49174165608593-Prohibited-services-on-Fiverr	Prohibited services on Fiverr (snippet: services violating third-party ToS prohibited)	T1	snippet	
+S023	https://help.fiverr.com/hc/en-us/articles/32242973123985-Our-Community-Standards	Our Community Standards (snippet: follow ToS of platforms your delivery relies on)	T1	snippet	
+S024	https://help.fiverr.com/hc/en-us/articles/12792122691601-Stay-protected-Fiverr-s-off-platform-policy	Off-platform policy (snippet: third-party communication only after order placed)	T1	snippet	
+S025	https://help.fiverr.com/hc/en-us/articles/6523401252881-Advanced-Analytics-for-Seller-plus	Advanced Analytics for Seller Plus (search result title only)	T1	snippet	
+S026	https://sourceforge.net/software/product/Figma/	SourceForge Figma reviews 2026 (4.7/5, 15 reviews; free version, starting $12/user/mo; users note shrinking free tier)	T2	fetched	2026 (latest review 2025-12-05)
+S027	https://sourceforge.net/software/product/CapCut/	SourceForge CapCut reviews 2026 (free version; starting $7.99/mo; HQ China)	T2	fetched	2026
+S028	https://sourceforge.net/software/product/Grammarly/	SourceForge Grammarly reviews 2026 (4.8/5, 38 reviews; free version; company now Superhuman)	T2	fetched	2026
+S029	https://sourceforge.net/software/product/Notion/	SourceForge Notion reviews 2026 (4.7/5, 26 reviews; free version; 5MB upload limit noted by user)	T2	fetched	2026 (latest review 2026-09)
+S030	https://sourceforge.net/software/product/Trello/	SourceForge Trello reviews 2026 (4.8/5, 79 reviews; free version)	T2	fetched	2026 (latest review 2026-07)
+S031	https://sourceforge.net/software/product/Clockify/	SourceForge Clockify reviews 2026 (4.8/5, 183 reviews; states free for up to 5 users - conflicts with Clockify marketing)	T2	fetched	2026
+S032	https://sourceforge.net/software/product/Loom/	SourceForge Loom reviews 2026 (Atlassian; $0 start; free has recording-time limits)	T2	fetched	2026
+S033	https://sourceforge.net/software/product/Descript/	SourceForge Descript reviews 2026 (free version; $10/user/mo start)	T2	fetched	2026
+S034	https://sourceforge.net/software/product/Calendly/	SourceForge Calendly reviews 2026 (perpetual free tier; 4.7/5, 14 reviews)	T2	fetched	2026
+S035	https://sourceforge.net/software/product/Buffer/	SourceForge Buffer reviews 2026 (free version; $5/mo start; 4.8/5)	T2	fetched	2026
+S036	https://sourceforge.net/software/product/Metricool/	SourceForge Metricool listing 2026 (free version; $18/mo start; HQ Spain; no reviews)	T2	fetched	2026
+S037	https://sourceforge.net/software/product/Screaming-Frog-SEO-Spider/	SourceForge Screaming Frog (HTTP 404 - not counted as fetched)	T2	failed	
+S038	https://raw.githubusercontent.com/ripienaar/free-for-dev/master/README.md	free-for.dev README (community list of free tiers; 1st WebFetch pass OK; 2nd targeted pass returned FABRICATED entries - all quoted limits re-verified against raw file via curl)	T2	fetched	checked 2026-09-26
+S039	https://github.com/neutraltone/awesome-stock-resources	awesome-stock-resources (14.6k stars; some license labels outdated e.g. Pexels as CC0, Font Awesome as MIT)	T2	fetched	checked 2026-09-26
+S040	https://github.com/goabstract/Awesome-Design-Tools	Awesome Design Tools (curated list; several entries outdated e.g. Adobe XD, Framer X)	T2	fetched	checked 2026-09-26
+S041	https://github.com/FortAwesome/Font-Awesome	Font Awesome repo README (v7 current, v6 LTS; Free: icons CC BY 4.0, fonts OFL 1.1, code MIT)	T1	fetched	checked 2026-09-26
+S042	https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/LICENSE.txt	Font Awesome Free LICENSE.txt (attribution embedded; brand icons trademark notice)	T1	fetched	checked 2026-09-26
+S043	https://github.com/google/fonts	google/fonts repo README (OFL 1.1 / Apache 2.0 / UFL; read each license; Reserved Font Names)	T1	fetched	checked 2026-09-26
+S044	https://github.com/obsproject/obs-studio	OBS Studio repo (GPLv2+, Win/macOS/Linux)	T1	fetched	checked 2026-09-26
+S045	https://github.com/languagetool-org/languagetool	LanguageTool repo (LGPL 2.1+, 25+ languages, self-hostable)	T1	fetched	checked 2026-09-26
+S046	https://github.com/penpot/penpot	Penpot repo (MPL-2.0; free cloud at design.penpot.app; self-host)	T1	fetched	checked 2026-09-26
+S047	https://github.com/mltframework/shotcut	Shotcut repo (GPLv3, free, Win/macOS/Linux)	T1	fetched	checked 2026-09-26
+S048	https://github.com/CapSoftware/Cap	Cap repo (open-source Loom alternative; MIT/AGPLv3; self-host or Cap Cloud)	T1	fetched	checked 2026-09-26
+S049	https://github.com/calcom/cal.com	calcom/cal.com repo README now describes Cal.diy (MIT, self-host only, enterprise features removed)	T1	fetched	checked 2026-09-26
+S050	https://github.com/formbricks/formbricks	Formbricks repo (AGPLv3 core; free cloud tier; self-host)	T1	fetched	checked 2026-09-26
+S051	https://github.com/invoiceninja/invoiceninja	Invoice Ninja repo (Elastic License, source-available; hosted + self-host; $40/yr white-label)	T1	fetched	checked 2026-09-26
+S052	https://github.com/GeneralMills/pytrends	pytrends repo (unofficial Google Trends API; archived 2025-04-17)	T1	fetched	2025-04-17 archived
+S053	https://github.com/openai/whisper	OpenAI Whisper repo (MIT; model sizes & VRAM)	T1	fetched	checked 2026-09-26
+S054	https://github.com/xinntao/Real-ESRGAN	Real-ESRGAN repo (BSD-3; portable ncnn-vulkan executables)	T1	fetched	checked 2026-09-26
+S055	https://github.com/Stirling-Tools/Stirling-PDF	Stirling PDF repo (open-core; 50+ PDF tools; desktop/self-host)	T1	fetched	checked 2026-09-26
+S056	https://github.com/kimai/kimai	Kimai repo (AGPL-3.0 time tracking + invoicing; kimai.cloud)	T1	fetched	checked 2026-09-26
+S057	https://github.com/umami-software/umami	Umami repo (MIT; privacy-first analytics; cloud free tier)	T1	fetched	checked 2026-09-26
+S058	https://github.com/NadirAliOfficial/fiverr-pro-tools	fiverr-pro-tools extension (online-status keeper; unpacked install; no ToS disclaimer)	T3	fetched	2026-05 created
+S059	https://github.com/ALGOANHAF/fiverr-gig-rank-checker-pro	Fiverr Gig Rank Checker Pro ($100 source via Telegram; scrapes search results)	T4	fetched	2026-04 created
+S060	https://github.com/saidurrahmanmisket/Fiverr-Restricted-Words-Finder	Fiverr Restricted Words Finder (masks words like e-m-a-i-l to evade filters)	T4	fetched	2024-11 created
+S061	https://github.com/NadirAliOfficial/fiverr-ai-autofill	Fiverr AI autofill extension (Groq API; storage permission only; MIT)	T3	fetched	2026-06 created
+S062	https://github.com/KyuRish/fiverr-mcp-server	Fiverr MCP server (scrapes public pages w/ TLS impersonation; admits may violate Fiverr ToS)	T3	fetched	2026-02 created
+S063	https://github.com/omar-elmaria/fiverr_scraper	fiverr_scraper (Scrapy + ScraperAPI to bypass anti-bot)	T3	fetched	2022-10 created
+S064	https://sourceforge.net/software/product/ClickUp/	SourceForge ClickUp reviews 2026 (Free Forever plan; paid from $7/user/mo annual; reviews to 2026-07)	T2	fetched	2026
+S065	https://sourceforge.net/software/product/Toggl-Track/	SourceForge Toggl Track (HTTP 404 - not counted)	T2	failed	
+S066	https://sourceforge.net/software/product/Semrush/	SourceForge Semrush One reviews 2026 (free version, 7-day trial; expensive for freelancers)	T2	fetched	2026 (latest review 2026-01)
+S067	https://sourceforge.net/software/product/Ahrefs/	SourceForge Ahrefs reviews 2026 (from $129/mo; no free version listed; AWT not covered)	T2	fetched	2026 (latest review 2025-09)
+S068	https://sourceforge.net/software/product/Ubersuggest/	SourceForge Ubersuggest 2026 (free version w/ tight search limits; $29/mo)	T2	fetched	2026 (review 2025-11)
+S069	https://sourceforge.net/software/product/AnswerThePublic/	SourceForge AnswerThePublic listing (NP Digital; autocomplete-based; no pricing listed)	T2	fetched	2026
+S070	https://sourceforge.net/software/product/Kittl/	SourceForge Kittl reviews 2026 (free version; $10/mo; does not accept PayPal/Payoneer/prepaid cards)	T2	fetched	2026 (review 2026-01)
+S071	https://sourceforge.net/software/product/Adobe-Express/	SourceForge Adobe Express reviews 2026 (free version; $9.99/mo; 'commercially-safe AI')	T2	fetched	2026
+S072	https://sourceforge.net/software/product/Pixlr/	SourceForge Pixlr 2026 (free with ads; $2.49/mo; Sweden)	T2	fetched	2026
+S073	https://sourceforge.net/software/product/Photopea/	SourceForge Photopea 2026 (free version; premium $5/mo; review 2026-03)	T2	fetched	2026
+S074	https://sourceforge.net/software/product/Freepik/	SourceForge 'Magnific, formerly Freepik' 2026 (free version; $9/mo; Spain)	T2	fetched	2026
+S075	https://sourceforge.net/software/product/Clipchamp/	SourceForge Clipchamp 2026 (free version; $9/mo; free output quality complaints)	T2	fetched	2026
+S076	https://sourceforge.net/software/product/LanguageTool/	SourceForge LanguageTool 2026 (free version limited; $59/yr; ~20+ languages)	T2	fetched	2026
+S077	https://sourceforge.net/software/product/QuillBot/	SourceForge QuillBot 2026 (free version; $8/mo)	T2	fetched	2026
+S078	https://sourceforge.net/software/product/Hemingway-Editor/	SourceForge Hemingway Editor ($19.99 one-time desktop; free web version)	T2	fetched	2026
+S079	https://sourceforge.net/software/product/Payoneer/	SourceForge Payoneer reviews 2026 (3.7/5; high FX fees, verification limits, frozen funds complaints)	T2	fetched	2026
+S080	https://sourceforge.net/software/product/Tally/	SourceForge Tally 2026 (free unlimited forms/submissions under fair use; Pro $29/mo; EU hosted)	T2	fetched	2026
+S081	https://sourceforge.net/software/product/Perplexity/	SourceForge Perplexity (HTTP 404 - not counted)	T2	failed	
+S082	https://sourceforge.net/software/product/Google-Analytics/	SourceForge Google Analytics reviews 2026 (free; GA360 enterprise; 60 reviews 4.6/5; GA4 learning curve)	T2	fetched	2026
+S083	https://sourceforge.net/software/product/Looker-Studio/	SourceForge Looker Studio (HTTP 404 - not counted)	T2	failed	
+S084	https://sourceforge.net/software/product/Wise-Business/	SourceForge Wise Business (HTTP 404 - not counted)	T2	failed	
+S085	https://sourceforge.net/software/product/ChatGPT/	SourceForge ChatGPT reviews 2026 (free version limited; Pro $200/mo; hallucination complaints)	T2	fetched	2026
+S086	https://sourceforge.net/software/product/Claude/	SourceForge Claude reviews 2026 (free version; Pro & Max up to 20x Pro usage; Arabic/French supported)	T2	fetched	2026 (review 2026-03)
+S087	https://sourceforge.net/software/product/Google-Gemini/	SourceForge Google Gemini (HTTP 404 - not counted)	T2	failed	
+S088	https://sourceforge.net/software/product/Gemini/	SourceForge 'Gemini' slug = Countersoft Gemini issue tracker (IRRELEVANT - wrong product)	T4	fetched-irrelevant	
+S089	https://sourceforge.net/software/product/Wise/	SourceForge 'Wise' slug = WISE WMS warehouse software (IRRELEVANT - wrong product)	T4	fetched-irrelevant	
+S090	https://sourceforge.net/software/product/Google-Data-Studio/	SourceForge Google Data Studio (now Looker Studio) reviews - free, 40+ connectors	T2	fetched	2026 (reviews 2020)
+S091	https://sourceforge.net/software/product/Google-Search-Console/	SourceForge Google Search Console reviews 2026 (free)	T2	fetched	2026
+S092	https://sourceforge.net/software/product/Meta-Business-Suite/	SourceForge Meta Business Suite listing ('It's free'; post scheduling FB/IG)	T2	fetched	2026
+S093	https://sourceforge.net/software/product/DaVinci-Resolve/	SourceForge DaVinci Resolve 2026 (free version; Studio $295 one-time; heavy hardware)	T2	fetched	2026
+S094	https://github.com/PayrollFlow/awesome-freelancer-payments	awesome-freelancer-payments (vendor-maintained list; USDT payout options; no country restrictions noted)	T4	fetched	2026-07 created
+S095	https://github.com/gauravmak/awesome-freelancing	awesome-freelancing (archived 2025-12-17; blogs, books, communities, tools)	T3	fetched	archived 2025-12-17
+S096	https://github.com/discoveredlabs/awesome-aeo-seo-tools	awesome-aeo-seo-tools (vendor-curated; open-source SEO/AEO/GEO tools incl. open-seo, seonaut, claude-seo)	T3	fetched	2026-06 created
+S097	https://github.com/Nadeem035/awesome-free-seo-tools	awesome-free-seo-tools (Screaming Frog free 500 URLs; Keyword Planner free w/ Ads account; AWT free for verified sites)	T3	fetched	2026-09-24 created
+S098	https://github.com/GoogleChrome/lighthouse	Lighthouse repo (Apache 2.0; DevTools/CLI/extension)	T1	fetched	checked 2026-09-26
+S099	https://sourceforge.net/software/product/Smartmockups/	SourceForge Smartmockups listing (free version; $14/mo; 5K export) - ownership by Canva not stated	T2	fetched	2026
+S100	https://sourceforge.net/software/product/remove.bg/	SourceForge remove.bg listing (Austria; free version; $9/mo start; API)	T2	fetched	2026
+S101	https://sourceforge.net/software/product/Google-Trends/	SourceForge Google Trends listing (free; Google data from 2004, YouTube from 2008)	T2	fetched	2026
+S102	https://sourceforge.net/software/product/Google-Keyword-Planner/	SourceForge Google Keyword Planner listing (free version; advertiser tool)	T2	fetched	2026
+S103	https://sourceforge.net/software/product/Toggl/	SourceForge Toggl Track reviews (free version; $9/user/mo; Estonia)	T2	fetched	2026
+S104	https://sourceforge.net/software/product/Keyword-Surfer/	SourceForge Keyword Surfer (free Chrome extension per listing; reviewer notes heavy limits; Poland)	T2	fetched	2026
+S105	https://github.com/simple-icons/simple-icons	Simple Icons repo (3,400+ brand SVGs, CC0; trademark disclaimer)	T1	fetched	checked 2026-09-26
+S106	https://github.com/tabler/tabler-icons	Tabler Icons repo (6,220 icons, MIT)	T1	fetched	checked 2026-09-26
+S107	https://github.com/remotion-dev/remotion	Remotion repo (special license; company license required in some cases)	T1	fetched	checked 2026-09-26
+S108	https://github.com/ShareX/ShareX	ShareX repo (GPL-3.0; Windows; screenshots, GIF/video, OCR, no ads)	T1	fetched	checked 2026-09-26
+S109	https://github.com/excalidraw/excalidraw	Excalidraw repo (MIT; free whiteboard; Excalidraw+ paid)	T1	fetched	checked 2026-09-26
+S110	https://github.com/audacity/audacity	Audacity repo (GPLv3/GPLv2+; v4 redesign in progress; 3.x stable branch)	T1	fetched	checked 2026-09-26
+S111	https://raw.githubusercontent.com/remotion-dev/remotion/main/LICENSE.md	Remotion LICENSE.md (free for individuals, for-profits up to 3 employees, non-profits; else Company License)	T1	fetched	checked 2026-09-26
+S112	https://sourceforge.net/software/product/Unsplash/	SourceForge Unsplash listing (2M+ images, Unsplash license; Canada)	T2	fetched	2026
+S113	https://sourceforge.net/software/product/Pexels/	SourceForge Pexels listing (Pexels License, free, no attribution; Germany)	T2	fetched	2026
+S114	https://sourceforge.net/software/product/Pixabay/	SourceForge Pixabay reviews (Pixabay License; Canva-owned since 2019; contributor dispute review 2022)	T2	fetched	2026
+S115	https://sourceforge.net/software/product/Mixkit/	SourceForge Mixkit listing (Envato; free, asset-specific licenses, no attribution/signup)	T2	fetched	2026
+S116	https://sourceforge.net/software/product/Microsoft-Designer/	SourceForge Microsoft Designer (1 review 2026-07, 1.0/5 - quality regression complaint)	T2	fetched	2026-07
+S117	https://github.com/kamilarndt/ares/blob/main/docs/platforms/traditional-platforms-tos.md	Third-party ToS summary (claims Fiverr ToS bans bots/scrapers; overstates AI disclosure as mandatory)	T4	fetched	
+S118	https://github.com/dmitriy718/GigHound/blob/main/docs/platform-intelligence-report.md	GigHound report (blob URL 404 - not counted)	T4	failed	
+S119	https://raw.githubusercontent.com/dmitriy718/GigHound/master/docs/platform-intelligence-report.md	GigHound platform intelligence report (no public Fiverr API except Affiliate API; PerimeterX anti-bot; ToS bans robots/scrapers; Buyer Requests replaced by Briefs Oct 2022)	T4	fetched	
+S120	https://github.com/api-evangelist/fiverr	API Evangelist Fiverr profile (third-party; no official seller API documented)	T4	fetched	
+S121	https://sourceforge.net/software/product/Google-Workspace/	SourceForge Google Workspace 2026 (Starter $7, Standard $14, Plus $22 /user/mo annual; personal accounts separate & free)	T2	fetched	2026 (review 2026-08)
+S122	https://sourceforge.net/software/product/Zoho-Invoice/	SourceForge Zoho Invoice (completely free; multi-currency; Arabic/French UI)	T2	fetched	2026
+S123	https://sourceforge.net/software/product/Shots/	SourceForge Shots (HTTP 404 - not counted)	T2	failed	
+S124	https://sourceforge.net/software/product/AlsoAsked/	SourceForge AlsoAsked listing (PAA tree; no pricing listed)	T2	fetched	2026
+S125	https://sourceforge.net/software/product/Jotform/	SourceForge Jotform 2026 (free: 5 forms, 100 submissions/mo, 10 payments, 100MB)	T2	fetched	2026
+S126	https://sourceforge.net/software/product/Airtable/	SourceForge Airtable 2026 (Free $0 w/ record/automation limits; Team $20/user/mo)	T2	fetched	2026
+S127	https://github.com/GNOME/gimp	GIMP GitHub mirror (GPL-3.0; official dev on gitlab.gnome.org; 3.3 dev series)	T1	fetched	checked 2026-09-26
+S128	https://github.com/KDE/krita	Krita GitHub mirror (GPL-3.0; free; illustration/painting)	T1	fetched	checked 2026-09-26
+S129	https://github.com/KDE/kdenlive	Kdenlive GitHub mirror (GPL-3.0; free video editor)	T1	fetched	checked 2026-09-26
+S130	https://github.com/HandBrake/HandBrake	HandBrake repo (GPLv2; video transcoding/compression)	T1	fetched	checked 2026-09-26
+S131	https://github.com/flameshot-org/flameshot	Flameshot repo (GPLv3+; screenshot + annotation; Win/macOS/Linux)	T1	fetched	checked 2026-09-26
+S132	https://github.com/AppFlowy-IO/AppFlowy	AppFlowy repo (AGPLv3; open-source Notion alternative; cloud or self-host)	T1	fetched	checked 2026-09-26
+S134	https://raw.githubusercontent.com/calcom/cal.com/main/README.md	Cal.com repo raw README (verified via curl: Cal.diy, 'personal, non-production use'; use hosted Cal.com for commercial)	T1	curl-verified	checked 2026-09-26
+S135	https://raw.githubusercontent.com/KyuRish/fiverr-mcp-server/master/README.md	fiverr-mcp-server raw README (verified via curl: 'web scraping may violate Fiverr's Terms of Service')	T3	curl-verified	checked 2026-09-26
+S136	https://raw.githubusercontent.com/upscayl/upscayl/main/README.md	Upscayl raw README (verified via curl: Vulkan GPU required; backend AGPLv3)	T1	curl-verified	checked 2026-09-26
+S137	https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.x/README.md	Font Awesome 7.x raw README (verified via curl: v7 current, v6 LTS, CC BY/OFL/MIT)	T1	curl-verified	checked 2026-09-26
+S138	https://raw.githubusercontent.com/saidurrahmanmisket/Fiverr-Restricted-Words-Finder/main/README.md	Restricted words extension raw README (verified via curl: pay -> p-a-y replacement)	T4	curl-verified	checked 2026-09-26
+S139	https://raw.githubusercontent.com/kamilarndt/ares/main/docs/platforms/traditional-platforms-tos.md	ares ToS doc raw (verified via curl: claims 'AI content with disclosure' - conflicts w/ Fiverr help center)	T4	curl-verified	checked 2026-09-26
+S140	https://github.com/TharindaMarasingha/Refreshly	Refreshly auto-reload extension (GitHub search metadata: 'monitoring Fiverr', topic 'stealth')	T4	snippet	2026-05 created
+S141	https://github.com/asifulmamun/browser-extension_chrome-for-auto_refresh_fiverr	Auto-refresh Fiverr extension, random-time reload (GitHub search metadata)	T4	snippet	2022-10 created
+S142	https://github.com/royal-crisis/fiverr-conversation-extractor	Fiverr inbox conversation extractor extension (GitHub search metadata)	T4	snippet	2024-11 created
+S143	https://github.com/rumman02/fiverr-conversation-extractor	Fiverr inbox exporter MV3 (GitHub search metadata)	T4	snippet	2026-07 created
+S144	https://github.com/WaveLeKick/fiverr-scraper	'Apify actor: fiverr-scraper' repos (GitHub search metadata; 5 sibling repos)	T4	snippet	2026-06 created
+S145	https://github.com/OGKingAllan/fiverr-seller-tools	Fiverr seller tools extension: dashboard stats, trend scanning, auto-export (GitHub search metadata)	T4	snippet	2026-03 created
